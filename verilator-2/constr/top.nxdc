@@ -1,0 +1,5 @@
+top=decode24
+
+y (LD3,LD2,LD1,LD0)
+en (SW0)
+x (SW2,SW1)
